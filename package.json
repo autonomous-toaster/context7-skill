@@ -1,0 +1,17 @@
+{
+  "name": "@autonomous-toaster/context7-skill",
+  "version": "1.0.0",
+  "description": "Query library documentation via Context7 API - pi skill package",
+  "keywords": ["pi-package", "skill", "documentation", "api", "context7"],
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/autonomous-toaster/voidm-pi-extension"
+  },
+  "pi": {
+    "skills": ["./SKILL.md"]
+  },
+  "publishConfig": {
+    "access": "public"
+  }
+}
